@@ -1,1 +1,1 @@
-# nix-gc
+# nix-build-gc
